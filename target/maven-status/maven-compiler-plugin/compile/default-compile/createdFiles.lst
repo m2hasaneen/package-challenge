@@ -1,0 +1,11 @@
+com/mercateo/challenge/packaging/constant/Constraints.class
+com/mercateo/challenge/packaging/service/PackingService.class
+com/mercateo/challenge/packaging/exception/FormatException.class
+com/mercateo/challenge/packaging/file/PackagingFile.class
+com/mercateo/challenge/packaging/model/ItemPackage.class
+com/mercateo/challenge/packaging/service/Combination.class
+com/mercateo/challenge/packaging/service/ItemBuilder.class
+com/mercateo/challenge/packaging/Packaging.class
+com/mercateo/challenge/packaging/service/PackageBuilder.class
+com/mercateo/challenge/packaging/model/Item.class
+com/mercateo/challenge/packaging/exception/ExceedConstraintsException.class

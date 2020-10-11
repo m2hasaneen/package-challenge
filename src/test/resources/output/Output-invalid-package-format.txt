@@ -1,0 +1,8 @@
+4
+item 101 : (1,15.3,€34) weight [101] exceed [100].
+item [99 , (1,15.3,€34)] separator is not valid.
+package item [(1,15.3,€101)] cost [101.0] exceed [100].
+package item [(1,100.01,€34)] weight [100.01] exceed [100].
+package item [(9,89.95,€78] format is not valid.
+item 55 weight [16] exceed [15].
+8,9
