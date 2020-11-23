@@ -34,3 +34,6 @@ hs_err_pid*
 .idea/modules.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
+.classpath
+.settings/*
+.project
