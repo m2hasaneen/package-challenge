@@ -64,6 +64,6 @@ public class Item {
             ", maxWeight=" + maxWeight +
             ", packages=" + packages +
             ", exception='" + exception + '\'' +
-            '}';
+            '}'; 
   }
 }
